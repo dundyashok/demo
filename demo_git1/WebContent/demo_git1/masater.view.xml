@@ -2,6 +2,7 @@
 		controllerName="demo_git1.masater" xmlns:html="http://www.w3.org/1999/xhtml">
 	<Page title="Title">
 		<content>
+			<Text test="Welcome UI5 User"></Text>
 			<Button text="Click Here" id="BtClick" press="onClick"></Button>
 		</content>
 	</Page>
