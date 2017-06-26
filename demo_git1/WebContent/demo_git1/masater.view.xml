@@ -2,7 +2,7 @@
 		controllerName="demo_git1.masater" xmlns:html="http://www.w3.org/1999/xhtml">
 	<Page title="Title">
 		<content>
-	
+			<Button text="Click Here" id="BtClick" press="onClick"></Button>
 		</content>
 	</Page>
 </core:View>
